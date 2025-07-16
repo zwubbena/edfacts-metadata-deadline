@@ -60,7 +60,7 @@ The tool supports the following file specifications:
 ### Prerequisites
 
 - Python 3.x
-- Google Colab environment (recommended) or Jupyter Notebook
+- [Google Colab environment](https://colab.research.google.com/)
 
 ### Required Libraries
 
@@ -209,7 +209,7 @@ This tool runs in **Google Colab** and installs dependencies automatically. No s
 
 ## ▶️ How to Use
 
-1. Open the notebook in https://colab.research.google.com/.
+1. Open the notebook in .
 2. Enter federal due dates for any of the 9 FS rows.
 3. Click **"Calculate Deadlines"**.
 4. View the results in a formatted table.
